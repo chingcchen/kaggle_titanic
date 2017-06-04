@@ -38,5 +38,6 @@ Tuning Parameters:
 
 ## Result 
 Based on this analysis, I got a score of 0.78 and ranked top 51%. 
+
 [My profile on Kaggle](https://www.kaggle.com/chingchen)
-https://www.kaggle.com/chingchen
+
