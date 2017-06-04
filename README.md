@@ -2,6 +2,12 @@
 This notebook demonstrates basic data exploration, data processing, feature engineering, and supervised machine learning techniques.
 The goal of this repository is to record where I started as a beginner in the the field of data science and Kaggle's competitions.
 
+#### File Description 
+* Datasets: *train.csv* &  *test.csv*
+* Notebook: *Titanic.ipynb*
+* Decision Tree image: *tree.png*
+* Result: *titanic_sub_eclf4.csv*
+
 ## Kaggle Competition | Titanic Machine Learning from Disaster
 
 > The sinking of the RMS Titanic is one of the most infamous shipwrecks in history. On April 15, 1912, during her maiden voyage, the Titanic sank after colliding with an iceberg, killing 1502 out of 2224 passengers and crew. This sensational tragedy shocked the international community and led to better safety regulations for ships.
