@@ -42,8 +42,10 @@ Supervised Machine learning Techniques:
 Tuning Parameters:
 * GridSearchCV
 
+## Insights
+Through the decision tree and the feature importances, I observed that for female, their class (economic status) is the most critical feature of their survival; for male, it's age. Additionally, for both genders, a smaller family size (<3.5 members) has a higher chance to survive. 
+
 ## Result 
 Based on this analysis, I got a score of 0.78 and ranked top 51%. 
-
-[My profile on Kaggle](https://www.kaggle.com/chingchen)
+My [profile](https://www.kaggle.com/chingchen) on Kaggle. 
 
